@@ -1,1 +1,1 @@
-This is a first version of the Rock, Paper or Scissors game.
+This is the first version of the Rock, Paper or Scissors game.
